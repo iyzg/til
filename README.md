@@ -14,4 +14,4 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Neuroscience
 
-* [Mental shape rotation](mental-shape-rotation.md)
+* [Mental shape rotation](neuroscience/mental-shape-rotation.md)
