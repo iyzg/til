@@ -7,9 +7,14 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Categories
 
 * [Neuroscience](#neuroscience)
+* [Python](#python)
 
 ---
 
 ### Neuroscience
 
 * [Mental shape rotation](neuroscience/mental-shape-rotation.md)
+
+### Python
+
+* [Open remote images without downloading](python/open-remote-images-without-downloading.md)
