@@ -7,6 +7,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Categories
 
 * [Neuroscience](#neuroscience)
+* [Numpy](#numpy)
 * [Python](#python)
 
 ---
@@ -14,6 +15,10 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Neuroscience
 
 * [Mental shape rotation](neuroscience/mental-shape-rotation.md)
+
+### Numpy
+
+* [Create masks from arrays](numpy/mask.md)
 
 ### Python
 
