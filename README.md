@@ -6,11 +6,16 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Categories
 
+* [Git](#git)
 * [Neuroscience](#neuroscience)
 * [Numpy](#numpy)
 * [Python](#python)
 
 ---
+
+### Git
+
+* [Stash N Pull](git/stash-n-pull.md)
 
 ### Neuroscience
 
