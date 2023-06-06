@@ -6,12 +6,17 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Categories
 
+* [Bash](#bash)
 * [Git](#git)
 * [Neuroscience](#neuroscience)
 * [Numpy](#numpy)
 * [Python](#python)
 
 ---
+
+### Bash
+
+* [Pull exit code](bash/pull-exit-code.md)
 
 ### Git
 
