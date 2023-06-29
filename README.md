@@ -16,6 +16,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Bash
 
+* [Making clips with ffmpeg](bash/making-clips-with-ffmpeg.md)
 * [Pull exit code](bash/pull-exit-code.md)
 
 ### Git
