@@ -6,11 +6,13 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Categories
 
-* [Bash](#bash)
-* [Git](#git)
-* [Neuroscience](#neuroscience)
-* [Numpy](#numpy)
-* [Python](#python)
+- [til](#til)
+    - [Categories](#categories)
+    - [Bash](#bash)
+    - [Git](#git)
+    - [Neuroscience](#neuroscience)
+    - [Numpy](#numpy)
+    - [Python](#python)
 
 ---
 
@@ -35,3 +37,4 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 * [Log softover over softmax](python/log-softmax-over-softmax.md)
 * [Open remote images without downloading](python/open-remote-images-without-downloading.md)
+* [Quick tallies](python/quick-tallies.md)
