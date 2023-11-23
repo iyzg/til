@@ -1,4 +1,4 @@
-# Quick talies
+# Quick tallies
 
 You should use Counter when you need to quickly count how many times something appears, whether in a string or in an array. Surprising amount of utility for something that just counts occurrences.
 
