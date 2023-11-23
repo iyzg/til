@@ -9,6 +9,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 - [til](#til)
     - [Categories](#categories)
     - [Bash](#bash)
+    - [DL](#dl)
     - [Git](#git)
     - [Neuroscience](#neuroscience)
     - [Numpy](#numpy)
@@ -20,6 +21,10 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 * [Making clips with ffmpeg](bash/making-clips-with-ffmpeg.md)
 * [Pull exit code](bash/pull-exit-code.md)
+
+### DL
+
+* [Addition for skip connections](dl/addition-for-skip-connections.md)
 
 ### Git
 
