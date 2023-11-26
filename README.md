@@ -37,6 +37,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Numpy
 
 * [Create masks from arrays](numpy/mask.md)
+* [Finding the Top-K](numpy/top-k.md)
 
 ### Python
 
