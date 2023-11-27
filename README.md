@@ -42,6 +42,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Python
 
 * [Class properties are neat](python/class-property.md)
+* [Dataclasses as little storage containers](python/dataclass.md)
 * [Log softover over softmax](python/log-softmax-over-softmax.md)
 * [Open remote images without downloading](python/open-remote-images-without-downloading.md)
 * [Quick tallies](python/quick-tallies.md)
