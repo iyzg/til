@@ -36,6 +36,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### Python
 
 * [Class properties are neat](python/class-property.md)
+* [Common zip design patterns](python/common-zip-patterns.md)
 * [Dataclasses as little storage containers](python/dataclass.md)
 * [For-else's](python/for-else.md)
 * [Log softover over softmax](python/log-softmax-over-softmax.md)
