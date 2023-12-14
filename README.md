@@ -30,6 +30,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Numpy
 
+* [Broadcasting magic](numpy/broadcasting-magic.md)
 * [Create masks from arrays](numpy/mask.md)
 * [Finding the Top-K](numpy/top-k.md)
 
