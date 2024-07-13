@@ -3,6 +3,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ---
 
 - [Bash](#bash)
+- [Distributed Systems](#distributed-systems)
 - [DL](#dl)
 - [Git](#git)
 - [Neuroscience](#neuroscience)
@@ -15,6 +16,10 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 * [Making clips with ffmpeg](bash/making-clips-with-ffmpeg.md)
 * [Pull exit code](bash/pull-exit-code.md)
+
+### Distributed Systems
+
+* [Netflix's Simian Army](dist-sys/netflix-simian-army.md)
 
 ### DL
 
