@@ -27,6 +27,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ### Git
 
+* [Patch flag](git/patch-flag.md)
 * [Stash N Pull](git/stash-n-pull.md)
 
 ### Neuroscience
