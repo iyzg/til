@@ -2,6 +2,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 
 ---
 
+- [Algorithms](#algorithms)
 - [Bash](#bash)
 - [Distributed Systems](#distributed-systems)
 - [DL](#dl)
@@ -11,6 +12,10 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 - [Python](#python)
 
 ---
+
+### Algorithms
+
+* [Sampling discrete distributions in O(1)](algorithms/vose-alias.md)
 
 ### Bash
 
