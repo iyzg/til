@@ -29,6 +29,7 @@ A budding garden of neat programming tricks and tidbits I pick up from the thing
 ### DL
 
 * [Addition for skip connections](dl/addition-for-skip-connections.md)
+* [GANs train discriminator first](dl/gans-train-discriminator-first.md)
 
 ### Git
 
